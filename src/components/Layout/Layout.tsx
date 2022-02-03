@@ -1,4 +1,4 @@
-import { ReactHTMLElement } from "react";
+import React from "react";
 
 function Layout({ children, className, ...props }: React.HTMLAttributes<HTMLElement>) {
   return (
